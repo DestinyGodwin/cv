@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.mynav{
+    background-color: aqua;
+}
+h1{
+    padding-top: 2rem;
+}
+.li2{
+    padding: 3rem 5px 0;
+}
+p{
+    font-family:"Ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: green;
+}
+h1{
+    font-family:"Montserrat-Black";
+    font-size: 2.5rem;
+    color: green;
+}
+myr{
+    color: black;
+}
+.ght{
+    color: green;
+}
+.footer{
+    text-align: center;
+}
+.tm{
+    text-align: center;
+    padding-top: 3rem;
+}
